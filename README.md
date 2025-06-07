@@ -20,7 +20,8 @@ The dataset includes vehicle features such as:
 - Fuel consumption
 - CO₂ emissions (target variable)
 
-> *Note: Dataset source and license can be added here if public.*
+> > 📂 *Dataset Source: [Kaggle – CO2 Emissions of Cars](https://www.kaggle.com/datasets/debajyotipodder/co2-emission-by-vehicles)*
+
 
 ---
 
